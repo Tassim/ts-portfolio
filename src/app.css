@@ -1,0 +1,10 @@
+body{
+  background-image: url('./assets/img/logo_blue_round.png');
+  background-attachment: fixed;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: 100px;
+  /* margin: 10%; */
+  background-color: lightsalmon;
+  opacity: 0.9;
+}

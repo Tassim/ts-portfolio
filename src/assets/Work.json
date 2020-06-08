@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Run Wild - Trail Run Finder",
+    "image": "../../assets/img/runwild.png",
+    "url": "https://emmbra.github.io/project1/",
+    "github": "https://github.com/emmbra/project1",
+    "description": "First group project during the bootcamp, starting to learning how to read documentation, the requirement was to use a CSS framework different than Bootstrap that we have used in class, we used Semantic UI. We were also required to use e not used in the course a third-party API."
+  },
+  {
+    "id": 2,
+    "name": "Fresh Lemons - Movie Rating App",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "url": "https://github.com/emmbra/project2"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "url": "https://github.com/Tassim/homework6"
+  },
+  {
+    "id": 4,
+    "name": "Good README Generator",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626", 
+    "url": "https://github.com/Tassim/homework7"
+  },
+  {
+    "id": 5,
+    "name": "Employee Summary",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+    "url": "https://github.com/Tassim/homework8"
+  },
+  {
+    "id": 6,
+    "name": "Note Taker",
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "url": "https://github.com/Tassim/homework9"
+  },
+  {
+    "id": 7,
+    "name": "Employee Tracker",
+    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "url": "https://github.com/Tassim/homework10"
+  },
+  {
+    "id": 8,
+    "name": "Fitness Tracker",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "url": "https://github.com/Tassim/homework8"
+  }
+]

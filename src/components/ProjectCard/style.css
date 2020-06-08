@@ -1,0 +1,14 @@
+.ui.centered.card{
+  background-color: rgb(211, 211, 211);
+  margin: 15px;
+  width: 450px;
+  min-height: 400px;
+  max-height: 400px;
+}
+
+.ui.card>.image, .ui.cards>.card>.image{
+  background-color: rgb(211, 211, 211);
+  min-height: 200px;
+  max-height: 200px;
+}
+
