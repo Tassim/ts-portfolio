@@ -10,43 +10,55 @@
   {
     "id": 2,
     "name": "Fresh Lemons - Movie Rating App",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "url": "https://github.com/emmbra/project2"
+    "image": "./img/lemon.png",
+    "url": "https://eb-movie-rating-app.herokuapp.com/",
+    "github": "https://github.com/emmbra/project2",
+    "description": "Second project during the bootcamp, in this fase of the course the minimal requirements of the project was to use NODE, EXPRESS, mySQL and React, also we had to make sure our folder structure meets the MVC paradigm."
   },
   {
     "id": 3,
-    "name": "Weather Dashboard",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "url": "https://github.com/Tassim/homework6"
+    "name": "Run to the Sun",
+    "image": "../../assets/img/grouprunners.jpg",
+    "url": "https://github.com/emmbra/project3",
+    "github": "https://runtothesun.herokuapp.com/",
+    "description": "This was the final project of the bootcamp, in this project the minimal requirements were was to use ReactJS, Node and Express Web Server database with sequelize or mongoose ORM. We were able to make our fun app fully authenticaded, we used React and Redux and Mongoose ORM. Using multiple schemas and working with react router and Redux helped us understand really well the concept of each technology."
+
   },
   {
     "id": 4,
     "name": "Good README Generator",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626", 
-    "url": "https://github.com/Tassim/homework7"
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423", 
+    "url": "https://github.com/Tassim/Good-README-generator",
+    "description": "Bootcamp homework using Node.js and Github API request"
   },
   {
     "id": 5,
     "name": "Employee Summary",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "url": "https://github.com/Tassim/homework8"
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "url": "https://github.com/Tassim/Employee-Directory",
+    "description": "Bootcamp homework using Node.js and Github API request"
   },
   {
     "id": 6,
     "name": "Note Taker",
     "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "url": "https://github.com/Tassim/homework9"
+    "url": "https://fast-tundra-61658.herokuapp.com/notes",
+    "github": "https://github.com/Tassim/Note-Taker",
+    "description": "Bootcamp homework using Express.js and other libraries. At this point on the bootcamp we had just started connecting the backend to the frontend, it was like finding the golden pot on the other side of the rainbow. Also, we lerned how to deploy the app with database on heroku"
   },
   {
     "id": 7,
     "name": "Employee Tracker",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "url": "https://github.com/Tassim/homework10"
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "url": "https://github.com/Tassim/Employee-Tracker",
+    "description": "Fun assignment, at this point of the boot-camp we were learning the backend enviroment, for this assigment we used Node.js, inquirer and MySQL. I remember the joy on seeing how to store and utilize information in a database"
   },
   {
     "id": 8,
-    "name": "Fitness Tracker",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "url": "https://github.com/Tassim/homework8"
+    "name": "Weather Dashboard",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "url": "https://tassim.github.io/Weather-Dashboard/",
+    "github": "https://github.com/Tassim/Weather-Dashboard",
+    "description": "Boot-camp homework, at this point of the course we started to learn to work with third-party API request, with multiple different queries"
   }
 ]

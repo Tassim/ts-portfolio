@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import { Card, Button, Icon, Sticky, Image, Item } from "semantic-ui-react";
 import work from "../../assets/Work.json";
+import images from '../../static/projects'
 import ProjectCard from "../../components/ProjectCard";
 import "./style.css";
 
@@ -36,7 +37,9 @@ class Work extends Component {
                 key={work.id}
                 name={work.name}
                 image={work.image}
+                description={work.description}
                 url={work.url}
+                github={work.github}
               />
             ))}
           </Card.Group>
