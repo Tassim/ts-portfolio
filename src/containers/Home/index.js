@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Grid, Image, Icon, Button } from "semantic-ui-react";
-import MyImage from "../../assets/img/IMG_5487.jpg";
-import Logo from "../../assets/img/logo_blue_round.png";
+import MyImage from "../../img/IMG_5487.jpg";
+import Logo from "../../img/logo_blue_round.png";
 import "./style.css";
 
 function HomePage() {

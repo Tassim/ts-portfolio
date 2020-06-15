@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Menu, Image } from "semantic-ui-react";
-import Logo from '../../assets/img/logo_blue_round.png';
+import Logo from '../../img/logo_blue_round.png';
 import './style.css';
 
 export default () => (

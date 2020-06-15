@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { Card, Button, Icon, Sticky, Image, Item } from "semantic-ui-react";
-import work from "../../assets/Work.json";
-import images from '../../static/projects'
+import { Card, Button, Icon, Sticky, Image, Item } from 'semantic-ui-react';
+import work from '../../static/Work.json';
+// import images from '../../static/projects'
 import ProjectCard from "../../components/ProjectCard";
 import "./style.css";
 
@@ -11,7 +11,6 @@ class Work extends Component {
     active: true,
     work,
   };
-
 
   render() {
     const { active } = this.state
@@ -29,7 +28,6 @@ class Work extends Component {
             </Button.Content>
           </Button>
           </Sticky>
-
           <Card.Group itemsPerRow={2}>
             {this.state.work.map((work) => (
               <ProjectCard

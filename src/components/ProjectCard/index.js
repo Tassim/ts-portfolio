@@ -1,13 +1,13 @@
 import React from "react";
 import { Card, Image, Icon } from "semantic-ui-react";
 import "./style.css";
-import run from '../../assets/img/runwild.png';
+import run from '../../img/runwild.png';
 
 function ProjectCard(props) {
   return (
     <div>
       <Card className="projectcard" centered >
-        <Image alt={props.name} src={props.image} size="small" centered />
+        <Image alt={props.name} src={props.image} centered />
         <Card.Content style={{height: "200px", overflowX: "scroll", }}>
           <Card.Header>{props.name}</Card.Header>
           <Card.Description>
