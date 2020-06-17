@@ -43,14 +43,14 @@ function HomePage() {
             experimenting in gardening.
           </p>
           <br />
-          <br />
-          <br />
-          <br />
           <a href="https://github.com/Tassim">
-            <Icon name="github" size="big" color="black" link />
+            <Icon name="github" size="big" color="black" link/>
           </a>
           <a href="https://www.linkedin.com/in/tassia-shibuya-358b7b24/">
-            <Icon name="linkedin" size="big" color="black" link />
+            <Icon name="linkedin" size="big" color="black" link/>
+          </a>
+          <a href="https://twitter.com/TassiaShibuya">
+            <Icon name="twitter" size="big" color="black" link />
           </a>
           <Button color="black" animated floated="right" as={Link} to="/work">
             <Button.Content visible>Projects</Button.Content>
