@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Grid, Image, Icon, Button } from "semantic-ui-react";
-import MyImage from "../../img/IMG_5487.jpg";
+import MyImage from "../../img/IMG_1199.JPG";
 import Logo from "../../img/logo_blue_round.png";
 import "./style.css";
 
