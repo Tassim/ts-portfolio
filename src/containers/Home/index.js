@@ -42,7 +42,7 @@ function HomePage() {
           </p>
           <p>
           When not online, I can be found in San Francisco, California enjoying 
-          outdoor activities with my handsome husband and kids such as jogging, 
+          outdoor activities with my husband and kids such as jogging, 
           biking, or experimenting with gardening. I’m also an aspiring chef and 
           can often be found in the kitchen cooking up a new recipe.
           </p>
