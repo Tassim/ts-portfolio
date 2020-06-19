@@ -15,7 +15,6 @@ function ProjectCard(props) {
           </Card.Description>
         </Card.Content>
         <Card.Content extra>
-          {/* <a href={props.url}>Project <Icon name="arrow right" size="large" color="black" link /></a> */}
           <a href={props.github}>Repo
             <Icon name="github" size="large" color="grey" />
           </a>
