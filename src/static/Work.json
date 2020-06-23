@@ -11,15 +11,15 @@
     "id": 2,
     "name": "Fresh Lemons - Movie Rating App",
     "image": "https://tassim.github.io/homework2/img/lemon.png",
-    "url": "https://eb-movie-rating-app.herokuapp.com/",
+    "url": "https://freshlemons.herokuapp.com/",
     "github": "https://github.com/emmbra/project2",
-    "description": "Second project during the bootcamp, in this fase of the course the minimal requirements of the project was to use NODE, EXPRESS, mySQL and React, also we had to make sure our folder structure meets the MVC paradigm."
+    "description": "Second project during the bootcamp, in this phase of the course the minimal requirements of the project was to use NODE, EXPRESS, mySQL and React, also we had to make sure our folder structure meets the MVC paradigm."
   },
   {
     "id": 3,
     "name": "Run to the Sun",
     "image": "https://tassim.github.io/homework2/img/grouprunners.jpg",
-    "url": "https://github.com/emmbra/project3",
+    "url": "https://runtothesun.herokuapp.com/",
     "github": "https://runtothesun.herokuapp.com/",
     "description": "This was the final project of the bootcamp, in this project the minimal requirements were was to use ReactJS, Node and Express Web Server database with sequelize or mongoose ORM. We were able to make our fun app fully authenticaded, we used React and Redux and Mongoose ORM. Using multiple schemas and working with react router and Redux helped us understand really well the concept of each technology."
 
@@ -44,7 +44,7 @@
     "image": "https://tassim.github.io/homework2/img/notetaker.jpg",
     "url": "https://fast-tundra-61658.herokuapp.com/notes",
     "github": "https://github.com/Tassim/Note-Taker",
-    "description": "Bootcamp homework using Express.js and other libraries. At this point on the bootcamp we had just started connecting the backend to the frontend, it was like finding the golden pot on the other side of the rainbow. Also, we lerned how to deploy the app with database on heroku"
+    "description": "Bootcamp homework using Express.js and other libraries. At this point on the bootcamp we had just started connecting the backend to the frontend, it was like finding the golden pot on the other side of the rainbow. Also, we learned how to deploy the app with database on heroku"
   },
   {
     "id": 7,
