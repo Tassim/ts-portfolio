@@ -4,7 +4,7 @@
     "name": "Run Wild - Trail Run Finder",
     "image": "https://tassim.github.io/homework2/img/runwild.png",
     "url": "https://emmbra.github.io/project1/",
-    "github": "https://github.com/emmbra/project1",
+    "github": "https://github.com/Tassim/project1",
     "description": "First group project during the bootcamp, starting to learning how to read documentation, the requirement was to use a CSS framework different than Bootstrap that we have used in class, we used Semantic UI. We were also required to use e not used in the course a third-party API."
   },
   {
@@ -12,7 +12,7 @@
     "name": "Fresh Lemons - Movie Rating App",
     "image": "https://tassim.github.io/homework2/img/lemon.png",
     "url": "https://freshlemons.herokuapp.com/",
-    "github": "https://github.com/emmbra/project2",
+    "github": "https://github.com/Tassim/project2",
     "description": "Second project during the bootcamp, in this phase of the course the minimal requirements of the project was to use NODE, EXPRESS, mySQL and React, also we had to make sure our folder structure meets the MVC paradigm."
   },
   {
@@ -20,7 +20,7 @@
     "name": "Run to the Sun",
     "image": "https://tassim.github.io/homework2/img/grouprunners.jpg",
     "url": "https://runtothesun.herokuapp.com/",
-    "github": "https://runtothesun.herokuapp.com/",
+    "github": "https://github.com/Tassim/project3",
     "description": "This was the final project of the bootcamp, in this project the minimal requirements were was to use ReactJS, Node and Express Web Server database with sequelize or mongoose ORM. We were able to make our fun app fully authenticaded, we used React and Redux and Mongoose ORM. Using multiple schemas and working with react router and Redux helped us understand really well the concept of each technology."
 
   },
